@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# belove
+
+
 class square():
     
     width = 0
